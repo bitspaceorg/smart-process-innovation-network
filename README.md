@@ -17,7 +17,7 @@
 </a>
   &nbsp;&nbsp;&nbsp;
 
-<a href="https://spin.bitspace.org">
+<a href="https://spin.bitspace.org.in">
        <img src="https://github.com/user-attachments/assets/2676cd53-a2f7-4c37-abc4-1127f00fba86" width=30 />
 </a>
 </div>
