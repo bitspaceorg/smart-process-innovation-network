@@ -1,0 +1,9 @@
+[submodule "python-backend"]
+	path = python-backend
+	url = git@github.com:bitspaceorg/spin-py-be.git
+[submodule "express-backend"]
+	path = express-backend
+	url = git@github.com:bitspaceorg/spin-be.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:bitspaceorg/spin.git
